@@ -1,0 +1,2 @@
+# Eshiritori_for_one
+WebSocketを使わないver
